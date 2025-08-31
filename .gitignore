@@ -1,0 +1,20 @@
+# Python byte-code files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env
+.venv
+venv/
+
+# Node.js dependencies
+node_modules/
+
+# Next.js build output
+.next/
+
+# OS generated files
+.DS_Store
+
+# Uploaded PDF files (ignore user uploads)
+/tmp/uploads/*.pdf

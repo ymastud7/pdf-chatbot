@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pika
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-voyageai
+langchain-qdrant
+qdrant-client
+pymupdf
+python-dotenv
+google-generativeai
